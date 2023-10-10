@@ -25,10 +25,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@CZ-DevTek&theme=dark&hide_border=false)<br/>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=@CZ-DevTek&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=@CZ-DevTek&icon=2&color=1)](https://visitcount.itsvg.in)
 
