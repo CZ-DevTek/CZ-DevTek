@@ -23,7 +23,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=@CZ-DevTek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)]<br/>
+[![](https://github-readme-stats.vercel.app/api?username=@Carlos-CZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@CZ-DevTek&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=@CZ-DevTek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
