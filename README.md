@@ -22,8 +22,8 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
 
 # ✏️ Languages:
-Spanish
-English
+Spanish<br/>
+English<br/>
 Russian
 
 # 📊 GitHub Stats:
